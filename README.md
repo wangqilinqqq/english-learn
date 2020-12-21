@@ -1,4 +1,4 @@
-名词English nouns:
+名词 English nouns:
 - time 时间
 - person 人物
 - year 年份
@@ -25,8 +25,7 @@
 - problem 问题
 - fact 事实
 
-动词
-- English verbs
+动词 English verbs:
 - be 成为
 - have 有
 - do 去做
@@ -53,8 +52,7 @@
 - leave 离开
 - call 叫
 
-形容词
-English adjectives
+形容词 English adjectives:
 - good 好的
 - new 新的
 - first 最初的
@@ -108,8 +106,7 @@ English adjectives
 - there 那里
 - their 他们的
 
-介词
-English prepositions
+介词 English prepositions:
 - to 到
 - of 关于
 - in 在里面
