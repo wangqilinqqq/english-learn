@@ -1,8 +1,7 @@
-名词
-English nouns:
-time 时间
-person 人物
-year 年份
+名词English nouns:
+- time 时间
+- person 人物
+- year 年份
 way 方向
 day 日子
 thing 东西
