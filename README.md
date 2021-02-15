@@ -1,9 +1,14 @@
 # english-learn
 Bracket Pair Colorizer
+
 Browser Preview
+
 Chinese (Simplified) Language Pack for Visual Studio Code
+
 Code Runner
+
 Dart
+
 Debugger for Chrome
 Docker
 Dracula Official
